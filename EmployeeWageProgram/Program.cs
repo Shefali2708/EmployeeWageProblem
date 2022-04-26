@@ -4,6 +4,7 @@ namespace EmployeeWageProgram
 {
     class Program
     {
+        //Calculate emp daily wage
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
