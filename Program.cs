@@ -13,6 +13,9 @@ namespace EmployeeWageProgram
 
             //Calculate Daily Employee Wage
             EmpWageUC2.EmployeeWage();
+
+            //Add Part time Employee & Wage
+            EmpPartTimeUC3.EmployeePartTime();
         }
     }
 }
