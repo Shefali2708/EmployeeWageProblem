@@ -20,6 +20,9 @@ namespace EmployeeWageProgram
             //Solving using Case Statement
             EmpWithSwitchCaseUC4.EmpSwitchCase();
 
+            //Calculate Wages till a condition of total working hours of 100 or max days os 20 is reached for a month
+            EmpWageForMonth20DaysUC5.ForMonth();
+
         }
     }
 }

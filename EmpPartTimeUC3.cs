@@ -37,7 +37,7 @@ namespace EmployeeWageProgram
             //empWage = 8 * 20;
             //empWage = 160
             empWage = empHrs * EMP_RATE_PER_HOUR;
-            Console.WriteLine("Emp Wage : " + empWage);
+            Console.WriteLine("Emp Wage UC3 : " + empWage);
         }
     }
 }
