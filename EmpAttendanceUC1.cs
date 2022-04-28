@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EmployeeWageProgram
 {
-    class EmpAttendance
+    class EmpAttendanceUC1
     {
         //Check emp is present or abesent
         //UC 1
