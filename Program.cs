@@ -16,6 +16,10 @@ namespace EmployeeWageProgram
 
             //Add Part time Employee & Wage
             EmpPartTimeUC3.EmployeePartTime();
+
+            //Solving using Case Statement
+            EmpWithSwitchCaseUC4.EmpSwitchCase();
+
         }
     }
 }
